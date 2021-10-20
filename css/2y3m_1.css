@@ -1,0 +1,27 @@
+#demo{
+	position: relative;
+	bottom: 250px;
+	left: 40vw;
+	text-align: center;
+	font-size: 40px;
+	background-color: darkgoldenrod;
+	width: 20vw;
+	border-radius: 20px;
+	border: 2px solid black;
+}
+
+#hut{
+	position: relative;
+	bottom: 150px;
+	height: 400px;
+}
+
+#footerSmall{
+	font-size: 10px;
+}
+
+#clue{
+	position: absolute;
+	top: 160px;
+	left: 95vw;
+}
