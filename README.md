@@ -6,3 +6,4 @@ Further below, on this very same "readme", you will find the link that will take
 From your arrival on that page, you will have several minutes to discover the next hint and get out of the hut. If you fail to do so in the given time, you lose.
 
 # Link:
+https://bautim37.github.io/2y3m/
